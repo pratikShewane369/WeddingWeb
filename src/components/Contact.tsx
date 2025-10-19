@@ -8,7 +8,7 @@ const contacts = [
     phone: ["9921573319"],
   },
   {
-    name: "Shri. Nandkumar Ingale",
+    name: "Shri. Nandkumar Ingle",
     role: "Groom's Family",
     phone: ["9921573319"],
   },
